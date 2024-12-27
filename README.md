@@ -1,6 +1,6 @@
 ### Hi I'm Arthur Walsh ! 👋
 
-I'm a software engineer at Sopra Steria. I'm from Lyon, France !
+I'm a software engineer, from Marseille, France !
 
 🔭 I’m currently working on a game FatRenard and a Event Platform
 
